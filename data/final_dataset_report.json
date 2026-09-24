@@ -1,0 +1,61 @@
+{
+  "rows": 19,
+  "columns": 62,
+  "checks": {
+    "population_2021_matches_city_total": true,
+    "requests_311_match_mounir_audit": true,
+    "condition_matches_mounir_outcome": true,
+    "condition_rate_matches_mounir": true,
+    "crimes_match_shirley_report": true,
+    "crime_categories_sum_to_total": true,
+    "incident_categories_all_in_condition_group": true,
+    "no_missing_values": true
+  },
+  "population_2021": 1762949,
+  "population_2023_07_01": 1895211,
+  "totals_2023_2025": {
+    "requests_311": 1041585,
+    "requests_office_flagged": 36532,
+    "requests_condition": 594245,
+    "requests_condition_clear_only": 374086,
+    "requests_service": 280998,
+    "requests_administrative": 129810,
+    "condition_road_sidewalk": 189848,
+    "condition_waste_cleanliness": 268118,
+    "condition_graffiti_vandalism": 7887,
+    "condition_noise_nuisance": 17331,
+    "condition_trees_greenspace": 111061,
+    "cleanliness_illegal_dumping": 68078,
+    "cleanliness_public_cleaning": 45276,
+    "cleanliness_graffiti": 7396,
+    "cleanliness_debris": 7658,
+    "cleanliness_total": 128408,
+    "rats": 2836,
+    "potholes": 28360,
+    "crimes_total": 74450
+  },
+  "city_rate_per_1000_per_year": {
+    "requests_condition": 112.36,
+    "cleanliness_total": 24.28,
+    "rats": 0.54,
+    "potholes": 5.36,
+    "crimes_total": 14.08
+  },
+  "administrative_share_pct": {
+    "city": 12.9,
+    "min": {
+      "borough": "Saint-Léonard",
+      "pct": 8.5
+    },
+    "max": {
+      "borough": "Ville-Marie",
+      "pct": 16.9
+    }
+  },
+  "spearman_with_crime_rate": {
+    "requests_condition": 0.47,
+    "cleanliness_total": 0.66,
+    "rats": 0.54,
+    "potholes": 0.51
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "sources": [
+    {
+      "file": "data/mounir/raw/requetes311.csv",
+      "source": "311 service requests (Requetes 3-1-1, 2022 to present)",
+      "publisher": "Ville de Montreal",
+      "url": "https://donnees.montreal.ca/dataset/5866f832-676d-4b07-be6a-e99c21eb17e4/resource/2cfa0e06-9be4-49a6-b7f1-ee9f2363a872/download/requetes311.csv",
+      "page": "https://donnees.montreal.ca/dataset/requete-311",
+      "licence": "CC BY 4.0",
+      "bytes": 835518402,
+      "retrieved": "2026-10-07"
+    },
+    {
+      "file": "data/mounir/raw/requetes311_2019-2021.csv",
+      "source": "311 service requests (Requetes 3-1-1, archive 2019-2021)",
+      "publisher": "Ville de Montreal",
+      "url": "https://donnees.montreal.ca/dataset/5866f832-676d-4b07-be6a-e99c21eb17e4/resource/dbfc05f8-b939-4639-ae52-2e77f738e43f/download/requetes311_2019-2021.csv",
+      "page": "https://donnees.montreal.ca/dataset/requete-311",
+      "licence": "CC BY 4.0",
+      "bytes": 517195690,
+      "retrieved": "2026-10-07"
+    },
+    {
+      "file": "data/mounir/raw/requetes311_2016-2018.csv",
+      "source": "311 service requests (Requetes 3-1-1, archive 2016-2018)",
+      "publisher": "Ville de Montreal",
+      "url": "https://donnees.montreal.ca/dataset/5866f832-676d-4b07-be6a-e99c21eb17e4/resource/dbc02208-907c-46ff-a052-e4c42042d327/download/requetes311_2016-2018.csv",
+      "page": "https://donnees.montreal.ca/dataset/requete-311",
+      "licence": "CC BY 4.0",
+      "bytes": 590423843,
+      "retrieved": "2026-10-07"
+    },
+    {
+      "file": "data/mounir/raw/requetes311_2014-2016.csv",
+      "source": "311 service requests (Requetes 3-1-1, archive 2014-2016)",
+      "publisher": "Ville de Montreal",
+      "url": "https://donnees.montreal.ca/dataset/5866f832-676d-4b07-be6a-e99c21eb17e4/resource/f62595b0-b26a-4e7b-ba67-05b84521ab64/download/requetes311_2014-2016.csv",
+      "page": "https://donnees.montreal.ca/dataset/requete-311",
+      "licence": "CC BY 4.0",
+      "bytes": 614260513,
+      "retrieved": "2026-10-07"
+    },
+    {
+      "file": "data/shirley/raw/actes-criminels.csv",
+      "source": "Criminal acts reported to the SPVM (Actes criminels)",
+      "publisher": "Ville de Montreal / SPVM",
+      "url": "https://donnees.montreal.ca/dataset/5829b5b0-ea6f-476f-be94-bc2b8797769a/resource/c6f482bf-bf0f-4960-8b2f-9982c211addd/download/actes-criminels.csv",
+      "page": "https://donnees.montreal.ca/dataset/actes-criminels",
+      "licence": "CC BY 4.0",
+      "bytes": 32676012,
+      "retrieved": "2026-10-06"
+    },
+    {
+      "file": "data/sebastien/raw/bourough-geo-coords.json",
+      "source": "Borough and linked-city boundaries, WGS 84 (Limites administratives de l'agglomeration)",
+      "publisher": "Ville de Montreal",
+      "url": "https://donnees.montreal.ca/dataset/9797a946-9da8-41ec-8815-f6b276dec7e9/resource/e18bfd07-edc8-4ce8-8a5a-3b617662a794/download/limites-administratives-agglomeration.geojson",
+      "page": "https://donnees.montreal.ca/dataset/limites-administratives-agglomeration",
+      "licence": "CC BY 4.0",
+      "bytes": 1258670,
+      "retrieved": "2026-09-24"
+    }
+  ]
+}
